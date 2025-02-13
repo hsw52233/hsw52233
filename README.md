@@ -25,14 +25,17 @@
 ### 🏆 Certifications  
 - **정보처리기사** (Korean Engineer Information Processing)  
 - **TOEIC SPEAKING  IM2** 
-- **리눅스2급**  
+- **리눅스2급**
+
+### Projects
+
+| 프로젝트명     | 설명                                         | 기술 스택 | 링크 |
+|----------------|----------------------------------------------|-----------|-------|
+| Presen🎙️ | 학원 그룹웨어 서비스 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> | <a href="https://github.com/gd86-academy/academy">GitHub</a> |
 
 
 ## etc
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw52233)](https://solved.ac/profile/hsw52233)
 
-
-## 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/%EC%83%81%EC%9A%B0-%ED%95%98-a86a07301/)
 
