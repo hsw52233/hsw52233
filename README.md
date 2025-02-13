@@ -28,7 +28,11 @@
 - **리눅스2급**  
 
 
+## etc
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw52233)](https://solved.ac/profile/hsw52233)
+
+
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-username/)
+[![LinkedIn](https://www.linkedin.com/in/%EC%83%81%EC%9A%B0-%ED%95%98-a86a07301/)
 
