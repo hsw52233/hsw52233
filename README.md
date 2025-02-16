@@ -41,4 +41,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw52233)](https://solved.ac/profile/hsw52233)
 
+[![Notion 프로필](https://img.shields.io/badge/Notion-Profile-blue)](https://www.notion.so/About-Me-199659dba614809294cedf1c4f76b5de)
+
+
+
 
