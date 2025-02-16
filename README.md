@@ -42,7 +42,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw52233)](https://solved.ac/profile/hsw52233)
 
 ## Contact
-<a href="https://www.notion.so/About-Me-199659dba614809294cedf1c4f76b5de"><img src="https://img.shields.io/badge/Notion-003C8F?style=flat&logo=notion&logoColor=white"/></a><a href="mailto:hsw52233@gmail.com"><img src="https://img.shields.io/badge/GMail-FF4747?style=flat&logo=gmail&logoColor=white"/></a><a href="mailto:hsw522@naver.com"><img src="https://img.shields.io/badge/Naver-03C75E?style=flat&logo=naver&logoColor=white"/></a>
+<a href="https://www.notion.so/About-Me-199659dba614809294cedf1c4f76b5de?pvs=4"><img src="https://img.shields.io/badge/Notion-003C8F?style=flat&logo=notion&logoColor=white"/></a><a href="mailto:hsw52233@gmail.com"><img src="https://img.shields.io/badge/GMail-FF4747?style=flat&logo=gmail&logoColor=white"/></a><a href="mailto:hsw522@naver.com"><img src="https://img.shields.io/badge/Naver-03C75E?style=flat&logo=naver&logoColor=white"/></a>
 
 
 
