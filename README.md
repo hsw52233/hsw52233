@@ -32,11 +32,8 @@
 | 프로젝트명     | 설명                                         | 기술 스택 | 링크 |
 |----------------|----------------------------------------------|-----------|-------|
 | 학원 그룹웨어 서비스 | 학원의 인트라넷을 바탕으로 구현했습니다. |  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> |  [GitHub](https://github.com/gd86-academy/academy) |
-| 쇼핑몰 서비스 | 온라인 쇼핑몰을 바탕으로 구현했습니다. | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=MyBatis&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
-|  [[GitHub](https://github.com/hsw52233/shoppingMall)] |
+| 쇼핑몰 서비스 | 온라인 쇼핑몰을 바탕으로 구현했습니다. | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat&logo=MyBatis&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
+|  [[GitHub](https://github.com/hsw52233/shoppingMall) |
 
 
 
